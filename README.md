@@ -10,3 +10,13 @@ MiniBlog is a Django based project which includes contents like Science, Technol
 ![Screenshot from 2022-06-15 23-49-19](https://user-images.githubusercontent.com/71956692/173898681-a50664f6-e0a8-48d2-8090-81ad1393382b.png)
 
 
+![Screenshot from 2022-06-15 23-49-38](https://user-images.githubusercontent.com/71956692/173899092-1e98e071-b2aa-402c-a9d4-d8a11d87c003.png)
+
+![Screenshot from 2022-06-15 23-49-57](https://user-images.githubusercontent.com/71956692/173899126-f2e8d442-9073-4dd3-941b-dbf716f6c018.png)
+![Screenshot from 2022-06-15 23-50-11](https://user-images.githubusercontent.com/71956692/173899155-4d6959cf-d288-41da-93a9-d14a1b1a2437.png)
+
+
+![Screenshot from 2022-06-15 23-50-40](https://user-images.githubusercontent.com/71956692/173899208-a65d0e80-acff-4247-bf57-edefb4a40407.png)
+
+
+![Screenshot from 2022-06-15 23-51-18](https://user-images.githubusercontent.com/71956692/173899248-2c4054b0-2797-4588-979e-c9ed61ce78c2.png)
