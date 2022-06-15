@@ -20,3 +20,10 @@ MiniBlog is a Django based project which includes contents like Science, Technol
 
 
 ![Screenshot from 2022-06-15 23-51-18](https://user-images.githubusercontent.com/71956692/173899248-2c4054b0-2797-4588-979e-c9ed61ce78c2.png)
+
+
+![Screenshot from 2022-06-16 00-01-30](https://user-images.githubusercontent.com/71956692/173899577-e2a86af3-ec7f-4fea-b3ac-417bcd4ab834.png)
+
+
+
+
